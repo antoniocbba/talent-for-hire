@@ -170,6 +170,8 @@ Country:
 |  Name    |  Role    |   Location    |   Skills    |   Remote    |   Contact    |
 | ------------- |-------------| -----| ------------- |-------------| -----|
 | Lauren Clark | Frontend Engineer | London, UK | React, Vue, JavaScript, Redux/Vuex, WordPress, REST, GraphQL, HTML, CSS, jQuery, UX, Git | Remote | lc@laurenclark.io |
+| Antonio Ayala | Frontend Web Developer | London, UK | HTML, CSS, JavaScript, Figma, UX, Git | Remote or Onsite| antoniocbba@yahoo.com <br> [Contact on LinkedIn] http://linkedin.com/in/antonio-a-01951330 |
+
 
 ## Pakistan
 
